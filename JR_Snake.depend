@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1298175064 source:h:\work\c-workplace\jr_snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1298083577 h:\work\c-workplace\jr_snake\main.h
+	"JR_timer.h"
+	"JR_Random.h"
+	"JR_Cursor.h"
+	"JR_KeyBoard.h"
+	"snake.h"
+
+1297931190 h:\work\c-workplace\jr_snake\jr_timer.h
+
+1297996986 h:\work\c-workplace\jr_snake\jr_random.h
+
+1297931115 h:\work\c-workplace\jr_snake\jr_cursor.h
+
+1297931192 h:\work\c-workplace\jr_snake\jr_keyboard.h
+
+1298171359 h:\work\c-workplace\jr_snake\snake.h
+	<stdlib.h>
+	"main.h"
+
+1298176107 source:h:\work\c-workplace\jr_snake\jr_keyboard.c
+	<conio.h>
+	"JR_KeyBoard.h"
+
+1297931192 source:h:\work\c-workplace\jr_snake\jr_random.c
+	<time.h>
+	"JR_Random.h"
+
+1297931192 source:h:\work\c-workplace\jr_snake\jr_timer.c
+	"JR_timer.h"
+
+1298175873 source:h:\work\c-workplace\jr_snake\snake.c
+	"snake.h"
+	<string.h>
+
+1297931115 source:h:\work\c-workplace\jr_snake\jr_cursor.c
+	"JR_Cursor.h"
+	<windows.h>
+
+1298250924 source:d:\eric\workspace\jr_snake\jr_keyboard.c
+	<conio.h>
+	"JR_KeyBoard.h"
+
+1297931192 d:\eric\workspace\jr_snake\jr_keyboard.h
+
+1297931192 source:d:\eric\workspace\jr_snake\jr_random.c
+	<time.h>
+	"JR_Random.h"
+
+1297996986 d:\eric\workspace\jr_snake\jr_random.h
+
+1297931192 source:d:\eric\workspace\jr_snake\jr_timer.c
+	"JR_timer.h"
+
+1297931190 d:\eric\workspace\jr_snake\jr_timer.h
+
+1298252113 source:d:\eric\workspace\jr_snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1298083577 d:\eric\workspace\jr_snake\main.h
+	"JR_timer.h"
+	"JR_Random.h"
+	"JR_Cursor.h"
+	"JR_KeyBoard.h"
+	"snake.h"
+
+1297931115 d:\eric\workspace\jr_snake\jr_cursor.h
+
+1298171359 d:\eric\workspace\jr_snake\snake.h
+	<stdlib.h>
+	"main.h"
+
+1297931115 source:d:\eric\workspace\jr_snake\jr_cursor.c
+	"JR_Cursor.h"
+	<windows.h>
+
+1298252295 source:d:\eric\workspace\jr_snake\snake.c
+	"snake.h"
+	<string.h>
+
+1298250924 source:e:\work\c_workspace\jr_snake\jr_keyboard.c
+	<conio.h>
+	"JR_KeyBoard.h"
+
+1297931192 e:\work\c_workspace\jr_snake\jr_keyboard.h
+
+1297931192 source:e:\work\c_workspace\jr_snake\jr_random.c
+	<time.h>
+	"JR_Random.h"
+
+1297996986 e:\work\c_workspace\jr_snake\jr_random.h
+
+1313750130 source:e:\work\c_workspace\jr_snake\jr_timer.c
+	"JR_timer.h"
+
+1297931190 e:\work\c_workspace\jr_snake\jr_timer.h
+
+1298252113 source:e:\work\c_workspace\jr_snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+
+1298083577 e:\work\c_workspace\jr_snake\main.h
+	"JR_timer.h"
+	"JR_Random.h"
+	"JR_Cursor.h"
+	"JR_KeyBoard.h"
+	"snake.h"
+
+1297931115 e:\work\c_workspace\jr_snake\jr_cursor.h
+
+1298171359 e:\work\c_workspace\jr_snake\snake.h
+	<stdlib.h>
+	"main.h"
+
+1298252295 source:e:\work\c_workspace\jr_snake\snake.c
+	"snake.h"
+	<string.h>
+
+1297931115 source:e:\work\c_workspace\jr_snake\jr_cursor.c
+	"JR_Cursor.h"
+	<windows.h>
+
