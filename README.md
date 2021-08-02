@@ -1,6 +1,6 @@
 # C语言写的字符界面贪吃蛇 - 不闪屏
 
-![](https://raw.githubusercontent.com/diamont1001/C_snake/0892ea08817bb7ba7b99fca1ce5fd26c24a76408/docs/Kapture%202021-08-02%20at%2014.37.11.gif)
+<img src="https://raw.githubusercontent.com/diamont1001/C_snake/0892ea08817bb7ba7b99fca1ce5fd26c24a76408/docs/Kapture%202021-08-02%20at%2014.37.11.gif" width="540"/>
 
 之前在网上下载了几位网友的贪吃蛇，看了下，觉得屏幕好闪，因为他们很多人都是用 `system("cls")` 来刷新屏幕的，所以难免会闪。在下一时兴致大发，也写了个，用 WIN—API 函数来控制光标输出，去除了闪屏的问题。有需要的童鞋欢迎下载交流。^_^
 
